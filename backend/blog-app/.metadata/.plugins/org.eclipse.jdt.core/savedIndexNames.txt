@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\Git\_Angular-training\Angular-Training-05\backend\blog-app\.metadata\.plugins\org.eclipse.jdt.core
+443608951.index
+795647787.index
